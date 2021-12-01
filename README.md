@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there , I'm Dmitriy.
 
-<!--
-**Manadrain7/Manadrain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA engineer enthusiast. Technology is a passion of mine and I enjoy learning new things.
 
-Here are some ideas to get you started:
+## ⚡ That I know and use: ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MySQL
+- Postman
+- Git/Github
+- Jira
+- Flicker
+- HTML5, CSS
+
+### Connect with me:
+
+[<img align="left" alt="DmitriyMokerov ❘ VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+<br />
+
+[vk]: https://vk.com/plazmus777
