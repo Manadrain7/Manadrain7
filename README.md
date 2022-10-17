@@ -4,11 +4,15 @@ I am a QA engineer enthusiast. Technology is a passion of mine and I enjoy learn
 
 ## ⚡ That I know and use: ⚡
 
-- MySQL
+- C#
+- Selenium
+- Xunit
+- Jmeter
 - Postman
+- MySQL
 - Git/Github
 - Jira
-- Flicker
+- YouTrack
 - HTML5, CSS
 
 ### Connect with me:
